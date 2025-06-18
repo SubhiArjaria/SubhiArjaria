@@ -22,6 +22,9 @@
 <a href="https://x.com/SubhiArjaria09" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
+<a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
+</a>
 
 ---
 
@@ -87,19 +90,19 @@ I'm a passionate AI/ML researcher with a strong academic foundation and diverse 
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Skills
 
-**Languages & Frameworks:**  
-Python, SQL, Power BI, PySpark, Excel, Pandas, NumPy, Scikit‑Learn, TensorFlow, PyTorch, LangChain, Hugging Face, Streamlit, Flask, Django, FastAPI, Docker, MongoDB, Git
+**Languages & Tools:**  
+C++, Python, SQL, LaTeX, Power BI, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, VS Code, Colab, Git/GitHub
 
-**Deployment & APIs:**  
-ChromaDB, FAISS, Groq API, AWS (S3, EC2, Lambda), REST, Gradio
-
-**AI Concepts:**  
-Model Deployment, Fine-tuning, Feature Engineering, Explainable AI (XAI), Prompt Engineering, GenAI, Multimodal AI
+**Libraries & Frameworks:**  
+FastAPI, Flask, Streamlit, LangChain, Hugging Face Transformers, RAG, Apache Spark, Neo4j, Docker, Terraform, CI/CD, OpenAI, Groq API, AWS, Qdrant, Ollama, MLflow, DagsHub
 
 **Coursework:**  
-ML, Deep Learning, NLP, CV, Reinforcement Learning, DSA, Optimization, DBMS, Cloud Computing
+Data Structures & Algorithms, Machine Learning, Deep Learning, Big Data, Reinforcement Learning, NLP, Artificial Intelligence
+
+**Soft Skills:**  
+Effective Communication, Problem-Solving, Time Management, Decision Making, Team Collaboration
 
 ---
 
@@ -113,6 +116,14 @@ ML, Deep Learning, NLP, CV, Reinforcement Learning, DSA, Optimization, DBMS, Clo
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=SubhiArjaria&style=flat-square)
+## ⏳ Timeline
 
----
+```mermaid
+timeline
+    title My Journey
+    2022 : Data Analyst @ Psyliq
+    2023 : Research Analyst @ Igurus
+    2023 : BSc in Mathematics, Sheer Wood College
+    2023 : MSc AI/ML @ IIIT Lucknow
+    2024 : ML Intern @ Feynn Labs
+    2025 : AI Research Intern @ ZySec AI
