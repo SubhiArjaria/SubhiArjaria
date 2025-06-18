@@ -23,67 +23,96 @@
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
 
+---
+
 ### Glad to see you here!
+
 I'm a passionate AI/ML researcher with a strong academic foundation and diverse project experience. From deep learning and NLP to deploying LLMs and working with real-time APIs, I enjoy exploring the boundaries of what's possible in AI.
 
-<br/>
+---
 
-## ✨ Education
+## 🎓 Education
+
 - **Indian Institute of Information Technology, Lucknow**  
-  MSc in Artificial Intelligence & Machine Learning (2023–2025) – *CGPA: 9.22*  
+  MSc in Artificial Intelligence & Machine Learning (2023–2025) — *CGPA: 9.22*  
+
 - **Indian Institute of Technology, Madras**  
-  Diploma in Data Science – *Grade: A*  
+  Diploma in Data Science — *Grade: A*  
+
 - **Bipin Bihari Degree College, Jhansi**  
-  BSc in Mathematics – *75%*  
+  BSc in Mathematics — *75%*  
+
 - **Sheer Wood College (CBSE)**  
   XII: 92.8%, X: 91.6%
 
-<br/>
+---
 
-## 🎯 Experience
-- **AI Research Intern @ ZySec AI** *(Feb 2025 – Present)*  
-  Optimizing large-scale AI models using CDE embeddings for security applications.
+## 💼 Experience
 
-- **ML Intern @ Feynn Lab** *(2024)*  
-  Built AI-driven financial models leveraging deep learning & computer vision.
+- **AI Research Intern** @ *ZySec AI*  
+  *Feb 2025 – Present*  
+  - Optimizing large-scale AI models using CDE embeddings for security applications.
 
-- **Research Analyst @ Igurus Consultancy Service LLP** *(2023)*  
-  Worked on Hindi NER and translation models.
+- **ML Intern** @ *Feynn Lab*  
+  *2024*  
+  - Built AI-driven financial models leveraging deep learning & computer vision.
 
-- **Data Analyst @ Psyliq** *(2022)*  
-  Delivered insights using Power BI, Excel, Tableau, R & SQL across 5 projects.
+- **Research Analyst** @ *Igurus Consultancy Service LLP*  
+  *2023*  
+  - Worked on Hindi NER and translation models.
 
-<br/>
+- **Data Analyst** @ *Psyliq*  
+  *2022*  
+  - Delivered insights using Power BI, Excel, Tableau, R & SQL across 5 projects.
 
-## 💡 Projects
-- **Crypto Agent** | Together.AI LLaMA 3.1, Coingecko API, Streamlit  
-  Created a real-time crypto agent using LLaMA 3.1 and Coingecko API in a Streamlit app.
+---
 
-- **AskPDF** | Language Models, Streamlit, LangChain  
-  Developed a tool to analyze & interact with large PDF files (up to 200 MB) using GenAI.
+## 🚀 Projects
 
-- **Fine-tuning Idefics 9B** | Hugging Face  
-  Fine-tuned Idefics 9B LLM on a multimodal dataset using PEFT and transformers.
+- **🪙 Crypto Agent**  
+  *LLaMA 3.1 + Coingecko API + Streamlit*  
+  - Created a real-time crypto agent powered by Together.AI and live APIs.
 
-- **Credit Risk Analysis** | XGBoost, Decision Tree, Random Forest  
-  Built credit scoring models using 50k+ records for risk mitigation.
+- **📄 AskPDF**  
+  *LangChain + Streamlit + Hugging Face*  
+  - Built a GenAI app for analyzing large PDFs (up to 200MB).
 
-<br/>
+- **🎯 Fine-tuning Idefics 9B**  
+  *Multimodal LLM fine-tuning with PEFT*  
+  - Trained a 9B parameter multimodal model for QA and vision-language tasks.
 
-## ⚙️ Skills & Tools
-**Languages/Frameworks:** Python, SQL, Power BI, PySpark, Excel, Pandas, NumPy, Scikit‑Learn, TensorFlow, PyTorch, LangChain, Hugging Face, Streamlit, ChromaDB, FAISS, Git/GitHub, Flask, Django, FastAPI, Docker, MongoDB, AWS (S3, EC2, Lambda), Groq API  
-**Concepts:** Model Deployment, XAI, Transfer Learning, Fine‑tuning, Feature Engineering, Time‑Series Analysis, Prompt Engineering, Generative AI, Multimodal AI  
-**Coursework:** AI, ML, Deep Learning, Reinforcement Learning, NLP, Computer Vision, DBMS, DSA, Optimization Techniques, Cloud Computing
+- **📊 Credit Risk Analysis**  
+  *XGBoost, Decision Tree, Random Forest*  
+  - Built scoring models on 50k+ credit records for risk prediction.
 
-<br/>
+---
+
+## 🛠 Skills & Tools
+
+**Languages & Frameworks:**  
+Python, SQL, Power BI, PySpark, Excel, Pandas, NumPy, Scikit‑Learn, TensorFlow, PyTorch, LangChain, Hugging Face, Streamlit, Flask, Django, FastAPI, Docker, MongoDB, Git
+
+**Deployment & APIs:**  
+ChromaDB, FAISS, Groq API, AWS (S3, EC2, Lambda), REST, Gradio
+
+**AI Concepts:**  
+Model Deployment, Fine-tuning, Feature Engineering, Explainable AI (XAI), Prompt Engineering, GenAI, Multimodal AI
+
+**Coursework:**  
+ML, Deep Learning, NLP, CV, Reinforcement Learning, DSA, Optimization, DBMS, Cloud Computing
+
+---
 
 ## 🏆 Achievements
-- AIR 785 in **IIT JAM (2023)**
-- Certifications from **IIT Madras**, NPTEL, Microsoft AI Challenge
-- Kaggle **Notebook Expert** (Top 4%)
-- Solved **100+ coding problems** on HackerRank, LeetCode, Coding Ninjas
-- Participated in **workshops** on Web 3.0, Cloud Computing (IIT Madras Paradox)
 
-<br/>
+- 🥇 AIR 785 — *IIT JAM 2023*  
+- ✅ Kaggle *Notebook Expert* — Top 4%  
+- 📜 Certified in AI/ML from *IIT Madras, Microsoft, NPTEL*  
+- 🧠 Solved *100+ coding problems* — LeetCode, HackerRank, Coding Ninjas  
+- 🎓 Participated in workshops — *Web3, AWS Cloud, IIT Madras Paradox*
 
-![Profile views counter](https://komarev.com/ghpvc/?username=SubhiArjaria&&style=flat-square)
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=SubhiArjaria&style=flat-square)
+
+---
