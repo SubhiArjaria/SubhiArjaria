@@ -3,7 +3,6 @@
 </div>
 
 <br/>
-<br/>
 
 ## Hey 👋, I'm Subhi Arjaria!
 
@@ -34,19 +33,6 @@ I'm a passionate AI/ML researcher with a strong academic foundation and diverse 
 
 ---
 
-## 🎓 Education Timeline
-
-```mermaid
-timeline
-    title Education Journey
-    2018 : Class X – Sheer Wood College (91.6%)
-    2020 : Class XII – Sheer Wood College (92.8%)
-    2023 : BSc Mathematics – Bipin Bihari Degree College (75%)
-    2024 : Diploma in Data Science – IIT Madras (Grade A)
-    2025 : MSc AI & ML – IIIT Lucknow (CGPA 9.22)
-
----
-
 ## 💼 Experience
 
 - **AI Research Intern** @ *ZySec AI*  
@@ -58,11 +44,11 @@ timeline
   - Built AI-driven financial models leveraging deep learning & computer vision.
 
 - **Research Analyst** @ *Igurus Consultancy Service LLP*  
-  *2023*  
+  *2024*  
   - Worked on Hindi NER and translation models.
 
 - **Data Analyst** @ *Psyliq*  
-  *2022*  
+  *2023*  
   - Delivered insights using Power BI, Excel, Tableau, R & SQL across 5 projects.
 
 ---
@@ -113,15 +99,21 @@ Effective Communication, Problem-Solving, Time Management, Decision Making, Team
 
 ---
 
-## ⏳ Timeline
+## 📌 Experience Timeline
 
 ```mermaid
 timeline
-    title Education & Experience Timeline
-    2023 : Data Analyst @ Psyliq
-    2024 : Research Analyst @ Igurus
-    2024 : ML Intern @ Feynn Labs
-    2025 : AI Research Intern @ ZySec AI
+  title Professional Experience
+  2023 : Data Analyst @ Psyliq
+  2024 : Research Analyst @ Igurus
+  2024 : ML Intern @ Feynn Labs
+  2025 : AI Research Intern @ ZySec AI
 
-
-
+## 🎓 Education Timeline
+timeline
+  title Education Journey
+  2018 : Class X – Sheer Wood College (91.6%)
+  2020 : Class XII – Sheer Wood College (92.8%)
+  2023 : BSc Mathematics – Bipin Bihari Degree College (75%)
+  2024 : Diploma in Data Science – IIT Madras (Grade A)
+  2025 : MSc AI & ML – IIIT Lucknow (CGPA 9.22)
