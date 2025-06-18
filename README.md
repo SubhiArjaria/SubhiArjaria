@@ -34,19 +34,16 @@ I'm a passionate AI/ML researcher with a strong academic foundation and diverse 
 
 ---
 
-## 🎓 Education
+## 🎓 Education Timeline
 
-- **Indian Institute of Information Technology, Lucknow**  
-  MSc in Artificial Intelligence & Machine Learning (2023–2025) — *CGPA: 9.22*  
-
-- **Indian Institute of Technology, Madras**  
-  Diploma in Data Science — *Grade: A*  
-
-- **Bipin Bihari Degree College, Jhansi**  
-  BSc in Mathematics — *75%*  
-
-- **Sheer Wood College (CBSE)**  
-  XII: 92.8%, X: 91.6%
+```mermaid
+timeline
+    title Education Journey
+    2018 : Class X – Sheer Wood College (91.6%)
+    2020 : Class XII – Sheer Wood College (92.8%)
+    2023 : BSc Mathematics – Bipin Bihari Degree College (75%)
+    2024 : Diploma in Data Science – IIT Madras (Grade A)
+    2025 : MSc AI & ML – IIIT Lucknow (CGPA 9.22)
 
 ---
 
