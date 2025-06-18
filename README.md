@@ -22,10 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhiArjaria&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhiArjaria&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -49,45 +45,16 @@ timeline
     2023 : Data Analyst
          : Psyliq
          : Power BI, Excel, Tableau, R & SQL
-         : 5 projects delivered
     2024 : Research Analyst
          : Igurus Consultancy
          : Hindi NER & Translation Models
-         : NLP Research
     2024 : ML Intern
          : Feynn Labs
          : AI-driven Financial Models
-         : Deep Learning & Computer Vision
     2025 : AI Research Intern
          : ZySec AI
          : Large-scale AI Model Optimization
-         : CDE Embeddings for Security
 ```
-
-<details>
-<summary><b>🔍 Click to expand detailed experience</b></summary>
-
-### 🎯 AI Research Intern @ ZySec AI
-**Feb 2025 – Present**
-- Optimizing large-scale AI models using CDE embeddings for security applications
-- Working with cutting-edge AI technologies for cybersecurity solutions
-
-### 🤖 ML Intern @ Feynn Lab
-**2024**
-- Built AI-driven financial models leveraging deep learning & computer vision
-- Developed predictive models for financial market analysis
-
-### 📊 Research Analyst @ Igurus Consultancy Service LLP
-**2024**
-- Worked on Hindi NER (Named Entity Recognition) and translation models
-- Advanced NLP research for Indian language processing
-
-### 📈 Data Analyst @ Psyliq
-**2023**
-- Delivered insights using Power BI, Excel, Tableau, R & SQL across 5 projects
-- Created comprehensive dashboards and analytical reports
-
-</details>
 
 ---
 
@@ -96,21 +63,11 @@ timeline
 ```mermaid
 timeline
     title Education Journey
-    2018 : Class X
-         : Sheer Wood College
-         : 91.6%
-    2020 : Class XII
-         : Sheer Wood College
-         : 92.8%
-    2023 : BSc Mathematics
-         : Bipin Bihari Degree College
-         : 75%
-    2024 : Diploma in Data Science
-         : IIT Madras
-         : Grade A
-    2025 : MSc AI & ML
-         : IIIT Lucknow
-         : CGPA 9.22
+    2018 : Class X - Sheer Wood College (91.6%)
+    2020 : Class XII - Sheer Wood College (92.8%)
+    2023 : BSc Mathematics - Bipin Bihari Degree College (75%)
+    2024 : Diploma in Data Science - IIT Madras (Grade A)
+    2025 : MSc AI & ML - IIIT Lucknow (CGPA 9.22)
 ```
 
 ---
@@ -162,46 +119,13 @@ timeline
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🪙 **Crypto Agent** | Real-time crypto analysis agent | LLaMA 3.1, Coingecko API, Streamlit | ✅ Completed |
-| 📄 **AskPDF** | GenAI app for PDF analysis (200MB+) | LangChain, Streamlit, Hugging Face | ✅ Completed |
-| 🎯 **Idefics 9B Fine-tuning** | Multimodal LLM fine-tuning | PEFT, 9B parameters | ✅ Completed |
-| 📊 **Credit Risk Analysis** | ML models for risk prediction | XGBoost, Random Forest, 50k+ records | ✅ Completed |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🪙 **Crypto Agent** | Real-time crypto analysis agent | LLaMA 3.1, Coingecko API, Streamlit |
+| 📄 **AskPDF** | GenAI app for PDF analysis (200MB+) | LangChain, Streamlit, Hugging Face |
+| 🎯 **Idefics 9B Fine-tuning** | Multimodal LLM fine-tuning | PEFT, 9B parameters |
+| 📊 **Credit Risk Analysis** | ML models for risk prediction | XGBoost, Random Forest, 50k+ records |
 
-</div>
-
-<details>
-<summary><b>🔍 Click to see more project details</b></summary>
-
-### 🪙 Crypto Agent
-- **Description**: Created a real-time cryptocurrency analysis agent
-- **Technologies**: LLaMA 3.1, Together.AI, Coingecko API, Streamlit
-- **Features**: Live market data, AI-powered insights, interactive dashboard
-
-### 📄 AskPDF
-- **Description**: GenAI application for analyzing large PDF documents
-- **Technologies**: LangChain, Streamlit, Hugging Face Transformers
-- **Capabilities**: Handle PDFs up to 200MB, natural language queries
-
-### 🎯 Fine-tuning Idefics 9B
-- **Description**: Multimodal Large Language Model fine-tuning
-- **Technologies**: PEFT (Parameter Efficient Fine-Tuning), 9B parameters
-- **Applications**: Vision-language tasks, Question-Answering
-
-### 📊 Credit Risk Analysis
-- **Description**: Machine learning models for credit risk assessment
-- **Technologies**: XGBoost, Decision Trees, Random Forest
-- **Scale**: 50,000+ credit records processed
-
-</details>
-
----
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhiArjaria&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=4ECDC4&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -218,27 +142,6 @@ timeline
 | 💻 **Coding Problems** | 100+ solved | Ongoing |
 | 🎓 **Current CGPA** | 9.22/10 | 2025 |
 
-</div>
-
-### 🏅 Certifications & Workshops
-- ✅ **AI/ML Certification** - IIT Madras
-- ✅ **Microsoft AI Fundamentals**
-- ✅ **NPTEL Online Courses**
-- 🌐 **Web3 Workshop** participation
-- ☁️ **AWS Cloud Workshop** attendance
-- 🎯 **IIT Madras Paradox** event participation
-
----
-
-## 📊 Coding Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubhiArjaria&theme=radical" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhiArjaria&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SubhiArjaria&theme=radical" alt="Most Commit Language" />
 </div>
 
 ---
@@ -268,14 +171,6 @@ class SubhiArjaria:
             "👁️ Computer Vision",
             "🔍 Reinforcement Learning",
             "📊 Big Data Analytics"
-        ]
-    
-    def goals_2025(self):
-        return [
-            "🎓 Complete MSc with distinction",
-            "📝 Publish research papers",
-            "🚀 Launch open-source AI projects",
-            "🤝 Collaborate with AI community"
         ]
 ```
 
