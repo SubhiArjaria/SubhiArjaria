@@ -19,6 +19,9 @@
 <a href="https://huggingface.co/Subhi09" target="_blank">
   <img src="https://img.shields.io/badge/huggingface-FCC72C.svg?&style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface" />
 </a>
+<a href="https://x.com/SubhiArjaria09" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
 
 ### Glad to see you here!
 I'm a passionate AI/ML researcher with a strong academic foundation and diverse project experience. From deep learning and NLP to deploying LLMs and working with real-time APIs, I enjoy exploring the boundaries of what's possible in AI.
