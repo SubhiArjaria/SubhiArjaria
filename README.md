@@ -1,7 +1,7 @@
 # Hey 👋, I'm Subhi Arjaria!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher;Data+Scientist;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher;Data+Scientist;Data+Analyst;ML+EngineerProblem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
