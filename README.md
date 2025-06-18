@@ -127,3 +127,7 @@ timeline
     2023 : MSc AI/ML @ IIIT Lucknow
     2024 : ML Intern @ Feynn Labs
     2025 : AI Research Intern @ ZySec AI
+
+---
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SubhiArjaria&show_icons=true&theme=tokyonight" alt="Subhi's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhiArjaria&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
